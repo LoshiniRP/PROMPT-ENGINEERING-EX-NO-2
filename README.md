@@ -7,16 +7,11 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
 Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
-
-Accuracy
-
-Coherence
-
-Simplicity
-
-Speed
-
-User experience
+1. Accuracy
+2. Coherence
+3. Simplicity
+4. Speed
+5. User experience
 
 ## OUTPUT
 
