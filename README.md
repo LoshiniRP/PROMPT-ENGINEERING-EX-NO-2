@@ -75,7 +75,6 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
 plt.title("Correlation Heatmap")
 plt.show()
 ```
-## RESULT
 <img width="603" height="480" alt="image" src="https://github.com/user-attachments/assets/f6587c0a-4572-42d8-8378-83fb19a96297" />
 
 <img width="760" height="480" alt="image" src="https://github.com/user-attachments/assets/565b5f80-d159-445a-b6c0-0f15c2826184" />
@@ -84,3 +83,5 @@ plt.show()
 
 <img width="884" height="738" alt="image" src="https://github.com/user-attachments/assets/c87031ef-71d6-4d92-8390-6f3a12d1b91a" />
 
+## RESULT:
+Thus, evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization has been successfully done.
